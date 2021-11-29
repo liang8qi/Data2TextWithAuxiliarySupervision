@@ -2,7 +2,7 @@
 
 BASE=dataset/rotowire
 RESULT_DIR=results
-PRED_FILE_NAME=model_pred_test.txt
+PRED_FILE_NAME=model_pred_rw_test.txt
 MODEL_NAME=$BASE/gen_model/*.pt
 DEVICE=0
 mkdir $RESULT_DIR
