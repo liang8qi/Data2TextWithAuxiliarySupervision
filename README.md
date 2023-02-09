@@ -1,7 +1,7 @@
 # Data2TextWithAuxiliarySupervision
 
 
-This repository provides the implementation for our paper "Improving Encoder by Auxiliary Supervision Tasks for Table-to-Text Generation" **ACL2020 main conference**. This code is based on https://github.com/ernestgong/data2text-three-dimensions/.
+This repository provides the implementation for our paper "Improving Encoder by Auxiliary Supervision Tasks for Table-to-Text Generation" **ACL2021 main conference**. This code is based on https://github.com/ernestgong/data2text-three-dimensions/.
 
 We provide the scrips (`preprocess.sh`, `train.sh`, and `translate.sh`) to preprocess the dataset, train models, and test. **Please refer to these scripts for more details about parameters setting**. The ouputs of our model are saved at `./our_results`.
 
